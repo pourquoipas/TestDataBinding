@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestDataBinding</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="test_enum_array">
+        <item>String one</item>
+        <item>String two</item>
+        <item>String three</item>
+    </string-array>
+</resources>
